@@ -33,7 +33,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
+# Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshaRode&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaRode&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/IshaRode)
+
 
